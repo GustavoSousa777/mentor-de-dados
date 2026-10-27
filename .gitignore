@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+chroma_db/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
+node_modules/
+frontend/dist/
+.DS_Store
